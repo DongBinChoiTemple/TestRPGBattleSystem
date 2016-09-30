@@ -1,0 +1,2 @@
+# TestRPGBattleSystem
+A simple turn-based battle system for an RPG that uses “moves” or “weapons” – the goal of a participant is to reduce the health of the opponent to zero. The mechanics is strongly based on the popular Pokémon series but augments it with other additional mechanics (e.g. dodging, terrain effects). Users may interact with it via a main function letting players take turns choosing moves.
